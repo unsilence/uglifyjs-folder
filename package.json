@@ -1,0 +1,22 @@
+{
+  "name": "uglifyjs-folder",
+  "version": "1.0.0",
+  "description": "uglifyjs-folder nodejs uglify-es",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsilence/uglifyjs-folder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unsilence/uglifyjs-folder/issues"
+  },
+  "homepage": "https://github.com/unsilence/uglifyjs-folder#readme",
+  "dependencies": {
+    "fs-extra": "^8.0.1"
+  }
+}
